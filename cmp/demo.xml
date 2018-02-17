@@ -1,0 +1,27 @@
+﻿<list>
+ <m type="tudou" src="102548517" label="tudou model" />
+ <m type="mgtv" src="745626" label="mgtv model" />
+ <m type="mgtv" src="http://www.hunantv.com/v/3/52632/c/742328.html" label="mgtv model" />
+ <m type="baofeng" src="http://www.baofeng.com/play/481/play-783981.html" label="baofeng model" />
+ <m type="funshion" src="88e6c8980573a1cecbdd9917df936d5597979ad5" label="funshion model" />
+ <m type="funshion" src="fsp://88e6c8980573a1cecbdd9917df936d5597979ad5" label="funshion model" />
+ <m type="youku" src="XNjMwODU1NjUy" label="youku model" />
+ <m type="youku" src="http://player.youku.com/player.php/sid/XNjMwODU1NjUy/v.swf" label="youku model" />
+ <m type="youku" src="http://v.youku.com/v_show/id_XNjMwODU1NjUy.html" label="youku model" />
+ <m type="letv" src="1886638" label="letv model" />
+ <m type="letv" src="http://www.letv.com/ptv/vplay/1886638.html" label="letv model" />
+ <m type="qq" src="t00141betya" label="qq model" />
+ <m type="ku6" src="6L44hlcoeVGdNuFh" label="ku6 model" />
+ <m type="ku6" src="http://v.ku6.com/show/6L44hlcoeVGdNuFh.html" label="ku6 model" />
+ <m type="url" src="http://v.ku6.com/show/6L44hlcoeVGdNuFh.html" label="ku6 model" />
+ <m type="cntv" src="612C52F5B78B4c2185B6E9484247D236" label="cntv model" />
+ <m type="cntv" src="http://xiyou.cntv.cn/v-db287392-b762-11df-bb43-001e0bbafb46.html" label="cntv model" />
+ <m type="cntv" src="xiyou://db287392-b762-11df-bb43-001e0bbafb46" label="cntv model" />
+ <m type="wasu" src="3765315" label="wasu model" />
+ <m type="wasu" src="http://www.wasu.cn/Play/show/id/3765315" label="wasu model" />
+ <m type="qiyi" src="091128bd607d4fe09874d3dac903ded2" label="qiyi model" />
+ <m type="sohu" src="1620677" label="sohu model" />
+ <m type="yyt" src="795024" label="yyt model"/>
+ <m type="yyt" src="http://v.yinyuetai.com/video/795024 " label="yyt model"/>
+ <m type="pptv" src="http://v.pptv.com/show/we929FzCMnDTUbk.html" label="pptv model" />
+</list>

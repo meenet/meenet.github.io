@@ -1,0 +1,35 @@
+﻿<cmp
+ name="meenet-CCHAT"
+ link="http://meenet.github.io"
+ description="MEENET- CChat专用"
+ logo=""
+ skin="skin.swf"
+ models=""
+ plugin="../cmp/plugin.swf"
+ plugins=""
+ backgrounds=""
+ lists=""
+ skin_id = "1"
+
+ play_id = "1"
+
+ auto_play = "1"
+
+ auto_open = "1"
+ 
+ click_play = "1"
+
+ src_handler = "http://mecapi.jd-app.com/src.php?vid={vid}"
+
+ lrc_handler = "http://mecapi.jd-app.com/lrc.php?title={label}&id={id}&art={author}&rd={rd}"
+
+ timeout = "300"
+
+ sound_sample = "true"
+
+ mixer_displace = "true"
+
+ mixer_filter = "true"
+ counter = "http://img.users.51.la/5492210.asp"
+
+/>

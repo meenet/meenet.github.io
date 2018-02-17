@@ -1,0 +1,22 @@
+﻿<list>
+
+  <m type="youku" src="XMjU2MDY2NTAw" label="怀旧经典1"/>
+  <m type="youku" src="XMjU5MjE4MzM2" label="怀旧经典2"/>
+  <m type="youku" src="XMTU4MjcwMTcy" label="80后经典歌曲"/>
+  <m type="youku" src="XODg4OTA0NzY=" label="水晶之恋"/>
+  <m type="youku" src="XMjI1NTc1NDI4" label="曾经最美"/>
+  <m type="youku" src="XNjA5OTU2ODg=" label="盼望"/>
+  <m type="sohu" src="1683374" label="老兵"/>
+  <m type="youku" src="XNjMwODU1NjUy" label="极速蜗牛"/>
+  <m src="http://dp.ppstream.com/get_play_url.php?sid=35C0EC" label="关云长"/>
+  <m type="youku" src="XMjk4ODY0MDky" label="功夫熊猫1"/>
+  <m src="http://dp.ppstream.com/get_play_url.php?sid=31KPCJ" label="功夫熊猫2"/>
+  <m src="http://mp4i.vodfile.m1905.com/movie/1305/1305247700F359A8217B48.mp4" label="三傻大闹宝莱坞"/>
+
+  <m type="youku" src="XNTUzNDQwMjM2" label="我们都是坏孩子"/>
+
+  <m type="tudou" src="66842745" label="十全九美"/>
+
+  <m type="sohu" src="1136645" label="R2B：返回基地"/>
+  <m list_src="http://mecapi.jd-app.com/qlive.php" label="QQ直播"/>
+</list>

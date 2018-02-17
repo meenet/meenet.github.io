@@ -1,0 +1,1 @@
+﻿document.write('<script src="http://data.stats.gov.cn/js/pClock/js/pClock.js" type="text/javascript"></script>');

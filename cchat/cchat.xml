@@ -1,0 +1,18 @@
+﻿<cchat
+roomid = "meenetchat"
+roomname = "MEENET-CChat"
+username = ""
+reserved = "晨风,管理,cenfun,颓废,7huo｜焱燚,meenet"
+allow_rename = ""
+auto_live = ""
+cmp_url = "https://meenet.sinaapp.com/cmp/cchat/cmp.swf"
+cmp_autoload = ""
+rtmfp = "rtmfp://p2p.rtmfp.net/35fea23dd2d81b9c797839dc-9a97fee341aa/"
+announce = "欢迎来访{roomname}聊天室 %3Cbr%20%2F%3E1, 请遵纪守法文明交流，禁止发布任何非法和不和谐信息 %3Cbr%20%2F%3E2, 聊天室需UDP支持，rtmfp网络测试：http://cc.rtmfp.net/ %3Cbr%20%2F%3E3, 局域网聊天请设置rtmfp服务器为：rtmfp://p2p.rtmfp.net/35fea23dd2d81b9c797839dc-9a97fee341aa/
+, 更多信息尽在论坛：%3Ca%20href%3D%22http%3A%2F%2Fmeenet.uueasy.com%2F%22%20target%3D%22_blank%22%3Ehttp%3A%2F%2Fmeenet.uueasy.com%2F%3C%2Fa%3E"
+bgcolor = "f5f5f5"
+sound = "enter.mp3,message.mp3"
+admin = "89546F6732270FA74CEB07DC3AAB8B33"
+badwords = "机票,六合彩,枪支,摇头丸,迷歼药,妈的,日你,你妈,操你,操你妈,我草,共产党"
+counter = "http://img.users.51.la/5492210.asp"
+/>

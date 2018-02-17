@@ -1,0 +1,39 @@
+﻿<cmp
+ 
+	name = "MEENET - DEMO"
+ 
+	link = "http://meenet.github.io"
+        link_target="_blank"
+ 
+	description = ""
+
+        logo = "{src:logo.png,xywh:[10R, 10, 40, 20]},{src:http://js.meenet.cn/swf/time.swf,xywh:[20C, 0P, 40, 20]}"
+
+	backgrounds = ""
+
+        skins="skins/kankan.swf"
+        plugins="plugin.swf"
+	lists = ""
+        src_handler = "http://meenet.butterfly.mopaasapp.com/src.php?vid={vid}"
+
+        lrc_handler = "http://meenet.butterfly.mopaasapp.com/lrc.php?title={label}&rd={rd}"
+	skin_id = "1"
+
+	play_id = "1"
+
+	auto_play = "1"
+
+	auto_open = "1"
+ 
+        click_play = "1"
+
+        timeout = "300"
+
+	sound_sample = "true"
+
+	mixer_displace = "true"
+
+	mixer_filter = "true"
+	counter = "http://img.users.51.la/5492210.asp"
+
+/>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ckplayer>
+  <style>
+		<cpath></cpath>
+		<language></language>
+		<flashvars>{b->1}{p->1}{my_url->http://meenet.github.io/ckplayer}</flashvars>
+		<setup>1,1,1,1,1,2,0,1,2,0,0,1,200,0,2,1,0,1,1,1,0,10,3,0,1,2,3000,0,0,0,0,1,1,1,1,1,1,250,0,90,0,0,0</setup>
+		<pm_bg>0x000000,100,230,180</pm_bg>
+		<mylogo>http://img.users.51.la/5492210.asp</mylogo>
+		<pm_mylogo>1,1,-100,-55</pm_mylogo>
+		<logo>http://img.users.51.la/5492210.asp</logo>
+		<pm_logo>2,0,-100,20</pm_logo>
+		<control_rel>related.swf,related.xml,0</control_rel>
+		<control_pv>Preview.swf,105,2000</control_pv>
+		<pm_repc></pm_repc>
+		<pm_spac>|</pm_spac>
+		<pm_fpac>file->f</pm_fpac>
+		<pm_advtime>2,0,-110,10,0,300,0</pm_advtime>
+		<pm_advstatus>1,2,2,-200,-40</pm_advstatus>
+		<pm_advjp>1,0,2,2,-100,-40</pm_advjp>
+		<pm_padvc>2,0,-13,-13</pm_padvc>
+		<pm_advms>2,2,-46,-67</pm_advms>
+		<pm_zip>1,1,-20,-8,1,0,0</pm_zip>
+		<pm_advmarquee>1,2,50,-70,50,18,0,0x000000,50,0,20,1,30,2000</pm_advmarquee>
+		<pm_glowfilter>0,0x01485d, 100, 6, 3, 10, 1, 0, 0</pm_glowfilter>
+		<advmarquee>感谢欣赏……</advmarquee>
+		<mainfuntion></mainfuntion>
+		<flashplayer></flashplayer>
+		<calljs>ckplayer_status,ckadjump,playerstop,ckmarqueeadv</calljs>
+		<myweb></myweb>
+		<cpt_lights>0</cpt_lights>
+                <cpt>time.swf,2,0,-105,50,0,1</cpt>
+		<cpt_share>share.xml</cpt_share>
+	</style>
+</ckplayer>
