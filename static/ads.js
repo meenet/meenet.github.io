@@ -1,1 +1,0 @@
-﻿document.write('<script type="text/javascript" src="http://code.taobao.org/svn/meenet/trunk/js/ads/46860.js"></script>');
