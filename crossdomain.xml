@@ -1,0 +1,51 @@
+<cross-domain-policy>
+
+<site-control permitted-cross-domain-policies="all"/>
+
+<allow-access-from domain="*.sinaapp.com"/>
+
+<allow-access-from domain="*.vipsinaapp.com"/>
+
+<allow-access-from domain="*.applinzi.com"/>
+
+<allow-access-from domain="*.meenet.cn"/>
+
+<allow-access-from domain="*.cenfun.com"/>
+
+<allow-access-from domain="meenet.sf.net"/>
+<allow-access-from domain="meenet.sourceforge.net"/>
+
+<allow-access-from domain="meenet.banzhu.com"/>
+
+<allow-access-from domain="meenet.sturgeon.mopaas.com"/>
+<allow-access-from domain="meenet.github.io"/>
+
+<allow-access-from domain="meenet.isitestar.cn"/>
+
+<allow-access-from domain="meenet.16mb.com"/>
+
+<allow-access-from domain="meenet.ucoz.com"/>
+
+<allow-http-request-headers-from domain="*.sinaapp.com" headers="*"/>
+
+<allow-http-request-headers-from domain="*.vipsinaapp.com" headers="*"/>
+
+<allow-http-request-headers-from domain="*.applinzi.com" headers="*"/>
+
+<allow-http-request-headers-from domain="*.meenet.cn" headers="*"/>
+
+<allow-http-request-headers-from domain="meenet.ucoz.com" headers="*"/>
+
+<allow-http-request-headers-from domain="meenet.sturgeon.mopaas.com" headers="*"/>
+
+<allow-http-request-headers-from domain="meenet.sf.net" headers="*"/>
+<allow-http-request-headers-from domain="meenet.sourceforge.net" headers="*"/>
+<allow-http-request-headers-from domain="meenet.banzhu.com" headers="*"/>
+<allow-http-request-headers-from domain="meenet.isitestar.cn" headers="*"/>
+<allow-http-request-headers-from domain="meenet.github.io" headers="*"/>
+
+<allow-http-request-headers-from domain="meenet.16mb.com" headers="*"/>
+
+<allow-http-request-headers-from domain="*.cenfun.com" headers="*"/>
+
+</cross-domain-policy>
