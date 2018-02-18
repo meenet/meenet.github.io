@@ -1,0 +1,64 @@
+﻿
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<title>电影欣赏 --  Powered by meenet&cmp</title>
+<meta name="keywords" content="meenet,cmp,cmp4,电影,家园,友谊在线" />
+<meta name="description" content="网络电影欣赏 " />
+<meta name="author" content="meenet.cn" />
+<style type="text/css">
+html, body { text-align: center; font-size: 12px; padding: 0; margin: 0; font-family: Verdana; }
+a, a:visited { color: #000; text-decoration: none; }
+.head { height: 30px; background: #f5f5f5; }
+.head_inner { width: 800px; margin: 0px auto; text-align: left; line-height: 30px; font-weight: bold; font-size: 14px; }
+.cmp { background: #000000; }
+.cmp_inner { width: 600px; height: 400px; margin: 0px auto; background: #181818; color: #ffffff; line-height: 500px; }
+.foot { border-top: 1px dashed #eee; margin-top: 10px; }
+.foot_inner { width: 800px; margin: 0px auto; text-align: left; color: #999; font-size: 11px; padding: 5px 0px; }
+.foot_inner a { color: #999; }
+</style>
+<script type="text/javascript" src="/static/swfobject.js"></script>
+<script type="text/javascript" src="js/cmp.js"></script>
+<script type="text/javascript">
+ var _speedMark = new Date();
+ swfobject.embedSWF("/static/time.swf", "time", "120", "20", "9.0.0");
+</script>
+</head>
+<body>
+<div class="head">
+  <div class="head_inner">div id="time"></div><script type="text/javascript" src="http://ext.weather.com.cn/89185.js"></script>电影&nbsp;<a href="dm.html">动漫</a>&nbsp;<a href="dsj.html">电视剧</a>&nbsp;<a href="./">DEMO</a></div>
+</div>
+<div class="cmp">
+  <div class="cmp_inner" id="player">loading ...</div>
+</div>
+<script type="text/javascript">
+function $(id) {
+ return document.getElementById(id);
+ }
+function cmp_loaded(key) {
+ var cmpo = window.cmpo = CMP.get("cmp");
+if (cmpo) {
+    document.title = cmpo.config("name");
+    cmpo.addEventListener("model_load", "cmp_model_load");
+	}if (CMPEI) {
+		CMPEI.init(key, cmpo);
+	} else {
+		alert("CMP扩展接口初始化错误");	
+	}
+}
+function cmp_model_load(data) {
+  document.title = cmpo.item("label");
+}
+var flashvars = {
+        lists:"http://apply.meenet.cn/cmp/list/mov.xml",
+	api : "cmp_loaded"
+};
+var htm = CMP.create("cmp", "100%", "100%", "https://meenet.github.io/cmp/cmp.swf", flashvars);
+document.getElementById("player").innerHTML = htm;
+</script>
+<div class="foot">
+  <div class="foot_inner"><script type="text/javascript" src="/static/copy.js"></script></div>
+</div>
+</body>
+</html>
