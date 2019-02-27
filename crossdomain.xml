@@ -14,15 +14,13 @@
 
 <allow-access-from domain="meenet.sf.net"/>
 <allow-access-from domain="meenet.sourceforge.net"/>
+<allow-access-from domain="meenet.sourceforge.io"/>
 
-<allow-access-from domain="meenet.banzhu.com"/>
-
-<allow-access-from domain="meenet.sturgeon.mopaas.com"/>
+<allow-access-from domain="meenet.home.blog"/>
+<allow-access-from domain="meenet.butterfly.mopaasapp.com"/>
 <allow-access-from domain="meenet.github.io"/>
 
 <allow-access-from domain="meenet.isitestar.cn"/>
-
-<allow-access-from domain="meenet.16mb.com"/>
 
 <allow-access-from domain="meenet.ucoz.com"/>
 
@@ -36,16 +34,14 @@
 
 <allow-http-request-headers-from domain="meenet.ucoz.com" headers="*"/>
 
-<allow-http-request-headers-from domain="meenet.sturgeon.mopaas.com" headers="*"/>
+<allow-http-request-headers-from domain="meenet.butterfly.mopaasapp.com" headers="*"/>
 
 <allow-http-request-headers-from domain="meenet.sf.net" headers="*"/>
 <allow-http-request-headers-from domain="meenet.sourceforge.net" headers="*"/>
-<allow-http-request-headers-from domain="meenet.banzhu.com" headers="*"/>
+<allow-http-request-headers-from domain="meenet.sourceforge.io" headers="*"/>
+<allow-http-request-headers-from domain="meenet.home.blog" headers="*"/>
 <allow-http-request-headers-from domain="meenet.isitestar.cn" headers="*"/>
 <allow-http-request-headers-from domain="meenet.github.io" headers="*"/>
-
-<allow-http-request-headers-from domain="meenet.16mb.com" headers="*"/>
-
 <allow-http-request-headers-from domain="*.cenfun.com" headers="*"/>
 
 </cross-domain-policy>
