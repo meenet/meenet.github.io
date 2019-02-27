@@ -7,7 +7,7 @@
  
 	description = ""
 
-        logo = "{src:logo.png,xywh:[10R, 10, 40, 20]},{src:http://code.taobao.org/svn/meenet/trunk/swf/time.swf,xywh:[20C, 0P, 40, 20]}"
+        logo = "{src:logo.png,xywh:[10R, 10, 40, 20]},{src:http://txcode.meenet.cn/swf/time.swf,xywh:[20C, 0P, 40, 20]}"
 
 	backgrounds = ""
 
