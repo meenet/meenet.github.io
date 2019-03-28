@@ -12,7 +12,6 @@
 
 <allow-access-from domain="*.cenfun.com"/>
 
-<allow-access-from domain="meenet.sf.net"/>
 <allow-access-from domain="meenet.sourceforge.net"/>
 <allow-access-from domain="meenet.sourceforge.io"/>
 
@@ -35,8 +34,6 @@
 <allow-http-request-headers-from domain="meenet.ucoz.com" headers="*"/>
 
 <allow-http-request-headers-from domain="meenet.butterfly.mopaasapp.com" headers="*"/>
-
-<allow-http-request-headers-from domain="meenet.sf.net" headers="*"/>
 <allow-http-request-headers-from domain="meenet.sourceforge.net" headers="*"/>
 <allow-http-request-headers-from domain="meenet.sourceforge.io" headers="*"/>
 <allow-http-request-headers-from domain="meenet.home.blog" headers="*"/>
